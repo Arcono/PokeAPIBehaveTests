@@ -6,7 +6,7 @@ behave, requests, pytest
 
 App used: https://pokeapi.co/
 
-2 batch files are included for automated setup on Windows only:
+2 batch files are included for automated setup on Windows only:  
 [Initial Setup.bat] will install the required dependancies and run the tests automatically.  
 [Run tests.bat] will only run the tests. (for quick use after dependancies are installed)
 

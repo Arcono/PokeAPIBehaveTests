@@ -10,7 +10,7 @@ App used: https://pokeapi.co/
 [Initial Setup.bat] will install the required dependancies and run the tests automatically.
 [Run tests.bat] will only run the tests. (for quick use after dependancies are installed)
 
-Alternatively, you may set up and run the enviornment and tests by via the following steps:
+Alternatively, you may set up and run the enviornment and tests via the following steps:
 
 To try this test for yourself, please install and use pipenv: https://pipenv.pypa.io/en/latest/
 ```

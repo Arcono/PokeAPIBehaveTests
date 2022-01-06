@@ -1,5 +1,7 @@
 # PokeAPIBehaveTests
 
+python version 3.10.1
+
 Here are some small example tests made in python using the following python libraries:
 
 behave, requests, pytest
